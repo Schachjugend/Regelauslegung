@@ -14,55 +14,6 @@ Diese Hinweise stellen eine Sammlung typischer Situationen dar, die bei Jugendme
 
 Schiedsrichterliche Maßnahmen dienen dazu, eine Turnierstörung zu beheben oder einen Regelverstoß zu sanktionieren. Danach wird auch in diesen Richtlinien unterschieden. Zu ergreifende Maßnahmen orientieren sich immer am Grundsatz der Verhältnismäßigkeit.
 
-## Störungen
-
-Es gilt: Eingreifen, sobald eine Störung eintritt! Ggf. Zeitgutschrift für gestörte Spieler.
-
-### Störungen durch Zuschauer
-
-*   > Personen sammeln sich im Turniersaal, auch im Eingangsbereich.
-    
-    Der Gruppenbildung folgt i.d.R. Lärm. Daher durchsetzen, dass niemand sitzt (Augenmaß, z.B. Schwangere!) und dass sich Gruppen zügig auflösen.
-
-*   > Personen unterhalten sich im Turniersaal (ca. 3).
-    
-    Unterbinden.
-
-*   > Personen missachten die Absperrung, auch Dehnung der Seile.
-    
-    Unterbinden.
-
-*   > Personen beeinflussen die Partie (auch, indem sie Getränken reichen).
-    
-    Unterbinden. Sollen Dinge ans Brett gereicht werden (etwa vergessene Namensschildchen), so soll dies durch die Schiedsrichter und unmittelbar nach Ausführung des gegnerischen Zugs erfolgen.
-
-*   > Personen halten sich lange an einem Brett auf.
-    
-    Auch Schachsport ist öffentlich, Zuschauer sind für Teilnehmer also erst einmal zumutbar. Dies gilt vor allem bei Jugendlichen. Wenn der Schiedsrichter Anhaltspunkte hat, dass sich ein Spieler gestört fühlt, behutsam eingreifen. Ein erklärendes Gespräch reicht meist aus.
-
-*   > Ein Handy eines Zuschauers oder Betreuers klingelt.
-    
-    Saalverweis für eine Runde, gelbe Karte. Rote Karte, wenn abgehoben wird. Im Wiederholungsfall rote Karte und Turnierverbot.
-
-    Delegationsleiter sind zwecks Erreichbarkeit angehalten, auch im Turniersaal ihr Handy auf Vibration eingeschaltet zu lassen und werden somit nicht sanktioniert.
-
-### Störungen durch Spieler
-
-*   > Spieler rennen durch den Turniersaal oder drängeln sich zwischen Tischen hindurch oder behindern andere Spieler.
-    
-    Unterbinden.
-
-*   > Ein Spieler weint, hat Schmerzen, etc.
-    
-    Augenmaß. Uhr anhalten, um sich Überblick zu verschaffen. In den unteren Altersklassen ist eine kurze Unterbrechung problemlos möglich. Ggf. Betreuer, auch des Gegners, benachrichtigen. Nötigenfalls Gruppenleiter oder Hauptschiedsrichter hinzuziehen.
-
-*   > Spieler unterhalten sich.
-    
-    Spieler dürfen sich während der Runden nicht unterhalten. Ansprechpartner sind ausschließlich die Schiedsrichter. Durchsetzung mit Augenmaß. Alter des Spielers und Konstellation beachten:
-    *   Gegner untereinander (Spieler hinweisen)
-    *   Spieler mit Eltern (Eltern hinweisen)
-    *   Spieler mit Betreuern/Trainern (Betreuer/Trainer hinweisen)
-
 ## Verstöße gegen die FIDE-Regeln
 
 *   > Spieler haben Partie mit falschen Farben begonnen.
@@ -126,6 +77,55 @@ Es gilt: Eingreifen, sobald eine Störung eintritt! Ggf. Zeitgutschrift für ges
     *   die Partie annulliert und neu gespielt,
     *   die Partie 0:0 gewertet.
     Hatten die Spieler Gelegenheit, die Partie zu analysieren, wird sie nie fortgesetzt.
+
+## Störungen
+
+Es gilt: Eingreifen, sobald eine Störung eintritt! Ggf. Zeitgutschrift für gestörte Spieler.
+
+### Störungen durch Zuschauer
+
+*   > Personen sammeln sich im Turniersaal, auch im Eingangsbereich.
+    
+    Der Gruppenbildung folgt i.d.R. Lärm. Daher durchsetzen, dass niemand sitzt (Augenmaß, z.B. Schwangere!) und dass sich Gruppen zügig auflösen.
+
+*   > Personen unterhalten sich im Turniersaal (ca. 3).
+    
+    Unterbinden.
+
+*   > Personen missachten die Absperrung, auch Dehnung der Seile.
+    
+    Unterbinden.
+
+*   > Personen beeinflussen die Partie (auch, indem sie Getränken reichen).
+    
+    Unterbinden. Sollen Dinge ans Brett gereicht werden (etwa vergessene Namensschildchen), so soll dies durch die Schiedsrichter und unmittelbar nach Ausführung des gegnerischen Zugs erfolgen.
+
+*   > Personen halten sich lange an einem Brett auf.
+    
+    Auch Schachsport ist öffentlich, Zuschauer sind für Teilnehmer also erst einmal zumutbar. Dies gilt vor allem bei Jugendlichen. Wenn der Schiedsrichter Anhaltspunkte hat, dass sich ein Spieler gestört fühlt, behutsam eingreifen. Ein erklärendes Gespräch reicht meist aus.
+
+*   > Ein Handy eines Zuschauers oder Betreuers klingelt.
+    
+    Saalverweis für eine Runde, gelbe Karte. Rote Karte, wenn abgehoben wird. Im Wiederholungsfall rote Karte und Turnierverbot.
+
+    Delegationsleiter sind zwecks Erreichbarkeit angehalten, auch im Turniersaal ihr Handy auf Vibration eingeschaltet zu lassen und werden somit nicht sanktioniert.
+
+### Störungen durch Spieler
+
+*   > Spieler rennen durch den Turniersaal oder drängeln sich zwischen Tischen hindurch oder behindern andere Spieler.
+    
+    Unterbinden.
+
+*   > Ein Spieler weint, hat Schmerzen, etc.
+    
+    Augenmaß. Uhr anhalten, um sich Überblick zu verschaffen. In den unteren Altersklassen ist eine kurze Unterbrechung problemlos möglich. Ggf. Betreuer, auch des Gegners, benachrichtigen. Nötigenfalls Gruppenleiter oder Hauptschiedsrichter hinzuziehen.
+
+*   > Spieler unterhalten sich.
+    
+    Spieler dürfen sich während der Runden nicht unterhalten. Ansprechpartner sind ausschließlich die Schiedsrichter. Durchsetzung mit Augenmaß. Alter des Spielers und Konstellation beachten:
+    *   Gegner untereinander (Spieler hinweisen)
+    *   Spieler mit Eltern (Eltern hinweisen)
+    *   Spieler mit Betreuern/Trainern (Betreuer/Trainer hinweisen)
 
 ## Handlungsempfehlungen für Schiedsrichter
 
