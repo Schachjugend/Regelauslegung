@@ -172,5 +172,3 @@ Es gilt: Eingreifen, sobald eine Störung eintritt! Ggf. Zeitgutschrift für ges
 *   > Rauchen.
     
     Es gilt das JuSchG als Maßstab. Die Regelungen sind seit 2007 recht streng, sie lauten: "Tabakwaren dürfen an Kinder und Jugendliche (also bis 18 Jahre) weder abgegeben noch darf ihnen das Rauchen in der Öffentlichkeit gestattet werden."
-
-    Die DSJ hat sich hierzu noch nicht positioniert und sanktioniert Betreuer und Spieler, die gegen diese Bestimmung verstoßen, bislang nicht.
