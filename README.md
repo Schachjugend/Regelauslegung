@@ -1,6 +1,6 @@
-# Regelauslegung bei Jugendturnieren
+# Regelanwendung bei Jugendturnieren
 
-Dieses Git-Repository enthält die Richtlinien der [Deutschen Schachjugend](http://deutsche-schachjugend.de) zur Regelauslegung bei Jugendturnieren im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. Dieses dient später als Ausgangsformat für Veröffentlichungen als PDF und andere Formate.
+Dieses Git-Repository enthält die Richtlinien der [Deutschen Schachjugend](http://deutsche-schachjugend.de) zur Regelanwendung bei Jugendturnieren im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. Dieses dient später als Ausgangsformat für Veröffentlichungen als PDF und andere Formate.
 
 ## Warum Git und Markdown?
 
