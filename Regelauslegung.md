@@ -1,4 +1,4 @@
-# Regelauslegung bei Jugendturnieren
+# Kindes- und jugendgerechte Regelanwendung
 
 ## Allgemeines
 
@@ -8,45 +8,29 @@ Schiedsrichter bei Jugendmeisterschaften müssen einerseits auf die Einhaltung d
 
 ### Verbindlichkeit
 
-Diese Hinweise stellen eine Sammlung typischer Situationen dar, die bei Jugendmeisterschaften auftreten. Sie dienen als verbindliche Leitlinie. Trotzdem: Jeder Fall ist anders und angemessen zu handhaben. Wenn die Umstände es verlangen, ist Abweichung also möglich. Ist von "höheren Altersklassen" die Rede, so zielt die Maßnahme für alle Jugendlichen ab der Altersklasse U14 oder DWZ 1600 ab.
+Diese Hinweise stellen eine Sammlung typischer Situationen dar, die bei Jugendmeisterschaften auftreten. Sie dienen als verbindliche Leitlinie. Trotzdem: Jeder Fall ist anders und angemessen zu handhaben. Wenn die Umstände es verlangen, ist Abweichung also möglich. Ist von "höheren Altersklassen" die Rede, so zielt die Maßnahme in der Regel für alle Jugendlichen ab der Altersklasse U14 oder DWZ 1600 ab.
 
 ### Verhältnismäßigkeit
 
 Schiedsrichterliche Maßnahmen dienen dazu, eine Turnierstörung zu beheben oder einen Regelverstoß zu sanktionieren. Danach wird auch in diesen Richtlinien unterschieden. Zu ergreifende Maßnahmen orientieren sich immer am Grundsatz der Verhältnismäßigkeit.
 
-## Verstöße gegen die FIDE-Regeln
-
-*   > Spieler haben Partie mit falschen Farben begonnen.
-    
-    Bis 10 Minuten: neu beginnen. Danach Partie fortsetzen lassen. Dann unbedingt Farbentausch auf Paarungsliste vermerken!
+## Spieler verstoßen gegen die FIDE-Regeln
 
 *   > Ein Spieler bietet zur Unzeit ein Remis an.
     
     Auf die Regelungslage hinweisen. Bei Störung des Gegners unterbinden.
 
-*   > Ein Spieler reklamiert Matt, obwohl es keines ist.
-    
-    Der Gegner soll erklären, ob er die Stellung ebenfalls für Matt hält. Wenn ja, ist die Partie beendet. Keine suggestiven Fragen stellen!
-
 *   > Ein Spieler schreibt seine Züge im Voraus auf.
     
-    Wenn der Gegner sich beschwert, eingreifen. In höheren Altersklassen grundsätzlich eingreifen. In jüngeren nach der Partie auf die Regelungslage hinweisen.
+    Wenn der Gegner sich beschwert, sofort eingreifen. In höheren Altersklassen grundsätzlich eingreifen, falls sich dadurch ein entscheidender Vorteil verschafft wird (d.h. insbesondere in Zeitnot). In jedem Fall nach der Partie auf die Regelungslage hinweisen.
 
 *   > Ein Spieler reklamiert falsch dreifache Stellungswiederholung oder 50-Züge-Regel.
     
-    Abhängig vom Alter muss zumindest sinngemäß die Absicht der Reklamation erkennbar sein. In höheren Altersklassen darf korrekte Reklamation erwartet werden.
+    In allen Altersklassen darf eine korrekte Reklamation erwartet werden. Bei jedoch falscher Remisreklamation erklärt der Schiedsrichter sofort die korrekte Form. In der U10  genügt es, dass zumindest sinngemäß die Absicht der Reklamation erkennbar ist.
 
 *   > Berührt-Geführt wird missachtet.
     
     Keine Lockerung! Schiedsrichter greift immer ein.
-
-*   > Bei der Rochade wird der Turm zuerst berührt.
-    
-    Nur dann und nur erklärend eingreifen, wenn der Gegner reklamiert. In höheren Altersklassen immer eingreifen.
-
-*   > Die Umwandlung wird nicht korrekt durchgeführt.
-    
-    Korrigierend eingreifen, wenn bspw. Bauer auf dem Brett steht. Ansonsten nur dann und nur erklärend eingreifen, wenn der Gegner reklamiert.
 
 *   > Ein Spieler begeht einen sonstigen Regelverstoß.
     
